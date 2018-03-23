@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/CLionProjects/UltimoTrabajoClase/Ferreteria.cpp
+Ferreteria.h
+C:/Users/ASUS/CLionProjects/UltimoTrabajoClase/Ferreteria.h
+fstream
+-
+iostream
+-
+cstring
+-
+
+C:/Users/ASUS/CLionProjects/UltimoTrabajoClase/Ferreteria.h
+
+C:/Users/ASUS/CLionProjects/UltimoTrabajoClase/main.cpp
+iostream
+-
+conio.h
+-
+Ferreteria.h
+C:/Users/ASUS/CLionProjects/UltimoTrabajoClase/Ferreteria.h
+
